@@ -1,3 +1,3 @@
-#!/usr/local/bin/wish
+#!/usr/bin/wish
 button .b -text "Hello,world!" -command exit
 pack .b
